@@ -1,1 +1,1 @@
-# INC
+# NÁVRH ČÍSLICOVÝCH SYSTÉMŮ
